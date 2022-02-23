@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ZToM-monsters-rolodex/static/css/main.4f707b1c.css",
+    "main.js": "/ZToM-monsters-rolodex/static/js/main.99bd86b5.js",
+    "index.html": "/ZToM-monsters-rolodex/index.html",
+    "main.4f707b1c.css.map": "/ZToM-monsters-rolodex/static/css/main.4f707b1c.css.map",
+    "main.99bd86b5.js.map": "/ZToM-monsters-rolodex/static/js/main.99bd86b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f707b1c.css",
+    "static/js/main.99bd86b5.js"
+  ]
+}
