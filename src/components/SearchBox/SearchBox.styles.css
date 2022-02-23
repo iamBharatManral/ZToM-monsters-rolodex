@@ -1,0 +1,12 @@
+.search-box{
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 30px;
+  font-family: 'Bigelow Rules', cursive;
+  color: red;
+}
